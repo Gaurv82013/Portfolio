@@ -1,5 +1,6 @@
 import React from "react";
 import { ProjectOne } from "./ProjectOne";
+import { ProjectTwo } from "./ProjectTwo";
 
 export const ProjectsSection = () =>{
     
@@ -12,6 +13,7 @@ export const ProjectsSection = () =>{
 
                 {/* First Project: */}
                 <ProjectOne />
+                <ProjectTwo />
             </div>
         </section>
     )
