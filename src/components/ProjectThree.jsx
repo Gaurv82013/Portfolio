@@ -19,7 +19,7 @@ export function ProjectThree() {
     "/projects/project3/Top.png",
     "/projects/project3/BottomCenter.png",
     "/projects/project3/Center.png",
-    "https://assets.aceternity.com/cloudinary_bkp/Spotlight_ar5jpr.png",
+    "/projects/project3/Center.png",
     "https://assets.aceternity.com/cloudinary_bkp/Parallax_Scroll_pzlatw_anfkh7.png",
     "https://assets.aceternity.com/tabs.png",
     "https://assets.aceternity.com/cloudinary_bkp/Tracing_Beam_npujte.png",

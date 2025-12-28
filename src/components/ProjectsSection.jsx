@@ -3,6 +3,7 @@ import { ProjectOne } from "./ProjectOne";
 import { ProjectTwo } from "./ProjectTwo";
 import { ProjectThree } from "./ProjectThree";
 import { ProjectFour } from "./ProjectFour";
+import { ProjectFive } from "./ProjectFive";
 
 export const ProjectsSection = () =>{
     
@@ -14,10 +15,14 @@ export const ProjectsSection = () =>{
                 <p className="text-center mb-12 text-muted-foreground mx-auto max-w-2xl">A selection of projects showcasing my <span className="text-primary font-bold">skills</span> and <span className="text-primary font-bold">experience</span>.</p>
 
                 {/* First Project: */}
-                <ProjectOne />
-                <ProjectTwo />
-                <ProjectThree />
-                <ProjectFour />
+                <div className="flex flex-col gap-12">
+                    <ProjectOne />
+                    <ProjectTwo />
+                    <ProjectThree />
+                    <ProjectFour />
+                    <ProjectFive />
+                </div>
+                
             </div>
         </section>
     )

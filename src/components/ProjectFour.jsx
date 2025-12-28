@@ -19,7 +19,7 @@ export function ProjectFour() {
     "/projects/project4/Right.jpg",
     "/projects/project4/BottomCenter.jpg",
     "/projects/project4/Center.jpg",
-    "https://assets.aceternity.com/cloudinary_bkp/Spotlight_ar5jpr.png",
+    "/projects/project4/Left.jpg",
     "https://assets.aceternity.com/cloudinary_bkp/Parallax_Scroll_pzlatw_anfkh7.png",
     "https://assets.aceternity.com/tabs.png",
     "https://assets.aceternity.com/cloudinary_bkp/Tracing_Beam_npujte.png",
@@ -51,7 +51,7 @@ export function ProjectFour() {
           ))}
         </div>
         <div className="mt-12 flex flex-col gap-6">
-          <a href="https://nextjourney.onrender.com/listings" target="_blank" rel="noopener noreferrer" className="inline-block bg-primary text-background px-6 py-2 rounded-lg font-medium hover:bg-primary/90 transition-colors">
+          <a href="https://www.linkedin.com/in/gaurav474" target="_blank" rel="noopener noreferrer" className="inline-block bg-primary text-background px-6 py-2 rounded-lg font-medium hover:bg-primary/90 transition-colors">
            LinkedIn <Linkedin className="inline-block ml-2 h-4 w-4" />
           </a>
           <a href="https://github.com/Gaurv82013/Portfolio" target="_blank" rel="noopener noreferrer" className="inline-block bg-primary text-background px-6 py-2 rounded-lg font-medium hover:bg-primary/90 transition-colors">

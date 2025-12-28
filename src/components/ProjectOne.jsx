@@ -19,7 +19,7 @@ export function ProjectOne() {
     "/projects/project1/TopCenter.png",
     "/projects/project1/BottomCenter.png",
     "/projects/project1/Center.png",
-    "https://assets.aceternity.com/cloudinary_bkp/Spotlight_ar5jpr.png",
+    "/projects/project1/Center.png",
     "https://assets.aceternity.com/cloudinary_bkp/Parallax_Scroll_pzlatw_anfkh7.png",
     "https://assets.aceternity.com/tabs.png",
     "https://assets.aceternity.com/cloudinary_bkp/Tracing_Beam_npujte.png",
