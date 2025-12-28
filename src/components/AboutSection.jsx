@@ -8,8 +8,8 @@ export const AboutSection = () => {
                     About <span className="text-primary">Me</span>
                 </h2>
                 <div className="grid grid-cols-1 md:grid-cols-2 gap-12 items-center">
-                    <div className="grid grid-cols-1 gap-6">
-                        <img src="/MyPhoto.png" alt="My Photo" className="rounded-full shadow-sm h-[300px] md:h-[400px] w-auto" />
+                    <div className="grid grid-cols-1 gap-6 justify-items-center">
+                        <img src="/MyPhoto.png" alt="My Photo" className="rounded-full shadow-sm h-[300px] md:h-[400px]" />
 
                     </div>
                     <div className="space-y-4">
