@@ -71,17 +71,17 @@ export const ContactSection = () => {
                     I'm always open to discussing <span className="text-primary font-bold">new projects</span>, <span className="text-primary font-bold">creative ideas</span>, or <span className="text-primary font-bold">opportunities</span> to be part of your visions. Feel free to reach out to me
                 </p>
                 <div className="flex justify-center mb-12 gap-6">
-                    <span className="rounded-full border border-primary/40 p-2">
+                    <span className="rounded-full border border-primary/40 p-2 hover:bg-primary/10 transition-colors">
                         <a href="https://www.linkedin.com/in/gaurav474">
                             <Linkedin className="h-6 w-6 text-muted-foreground hover:text-primary transition-colors" />
                         </a>
                     </span>
-                    <span className="rounded-full border border-primary/40 p-2">
+                    <span className="rounded-full border border-primary/40 p-2 hover:bg-primary/10 transition-colors">
                         <a href="https://github.com/Gaurv82013">
                             <Github className="h-6 w-6 text-muted-foreground hover:text-primary transition-colors" />
                         </a>
                     </span>
-                    <span className="rounded-full border border-primary/40 p-2">
+                    <span className="rounded-full border border-primary/40 p-2 hover:bg-primary/10 transition-colors">
                         <a href="https://www.instagram.com/gauravkr_474">
                             <Instagram className="h-6 w-6 text-muted-foreground hover:text-primary transition-colors" />
                         </a>
@@ -89,7 +89,7 @@ export const ContactSection = () => {
                 </div>
                 <div className="grid grid-cols-1 gap-12">
 
-                    <div className="space-y-6 flex flex-col md:flex-row md:space-x-12 md:space-y-0 mb-12 justify-center items-center">
+                    <div className="space-y-6 flex flex-col md:flex-row md:space-x-12 md:space-y-0 mb-12 md:justify-center md:items-center">
                         <div className="space-y-6 justify-center items-center">
                             <div className="flex items-center space-x-4">
                                 <div className="p-3 rounded-full bg-primary/10">

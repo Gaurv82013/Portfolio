@@ -38,7 +38,7 @@ export function ProjectFour() {
   ];
   const Tags=["TypeScript", "JavaScript", "NextJs", "ReactJs", "NodeJs", "Tailwind CSS", "ExpressJs", "MongoDB", "HTML/CSS", "SQL", "Git/GitHub", "VS Code", "Docker"];
   return (
-    <div className="flex flex-col md:flex-row max-h-screen w-full gap-4 my-10 max-w-7xl rounded-3xl bg-transparent p-2 border border-primary/40 shadow-sm overflow-hidden">
+    <div className="flex flex-col md:flex-row max-h-screen w-full gap-4 my-10 max-w-7xl rounded-3xl bg-transparent p-2 border border-primary/40 md:shadow-sm shadow-xs overflow-hidden">
       <ThreeDMarquee images={images} className="w-full md:w-3/5 md:h-[500px] object-cover" />
       <div className="w-full md:w-2/5 flex flex-col justify-start items-center px-6">
         <h3 className="text-3xl text-primary text-center font-bold mb-4 mt-2 font-serif">Open Source Contributions</h3>
@@ -55,7 +55,7 @@ export function ProjectFour() {
            LinkedIn <Linkedin className="inline-block ml-2 h-4 w-4" />
           </a>
           <a href="https://github.com/Gaurv82013/Portfolio" target="_blank" rel="noopener noreferrer" className="inline-block bg-primary text-background px-6 py-2 rounded-lg font-medium hover:bg-primary/90 transition-colors">
-            GitHub Repo <Github className="inline-block ml-2 h-4 w-4" />
+            GitHub <Github className="inline-block ml-2 h-4 w-4" />
           </a>
         </div>
       </div>
