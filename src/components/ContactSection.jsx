@@ -96,7 +96,7 @@ export const ContactSection = () => {
                                     <Mail className="h-4 w-4 text-primary" />
                                 </div>
                                 <div>
-                                    <a href="mailto:gauravkumar803109@gmail.com" className="text-muted-foreground hover:text-primary transition-colors">gauravkumar803109@gmail.com</a>
+                                    <a href="mailto:gauravkumar803109@gmail.com" className="text-muted-foreground hover:text-primary hover:underline transition-colors">gauravkumar803109@gmail.com</a>
                                 </div>
                             </div>
                         </div>
@@ -106,7 +106,7 @@ export const ContactSection = () => {
                                     <Phone className="h-4 w-4 text-primary" />
                                 </div>
                                 <div>
-                                    <a href="tel:+919771570572" className="text-muted-foreground hover:text-primary transition-colors">+91 9771570572</a>
+                                    <a href="tel:+919771570572" className="text-muted-foreground hover:text-primary hover:underline transition-colors">+91 9771570572</a>
                                 </div>
                             </div>
                         </div>
@@ -116,7 +116,7 @@ export const ContactSection = () => {
                                     <Map className="h-4 w-4 text-primary" />
                                 </div>
                                 <div>
-                                    <a href="https://www.google.com/maps/place/Nalanda,Bihar,India" target="_blank" rel="noopener noreferrer" className="text-muted-foreground hover:text-primary transition-colors">Nalanda, Bihar (India)</a>
+                                    <a href="https://www.google.com/maps/place/Nalanda,Bihar,India" target="_blank" rel="noopener noreferrer" className="text-muted-foreground hover:text-primary hover:underline transition-colors">Nalanda, Bihar (India)</a>
                                 </div>
                             </div>
                         </div>

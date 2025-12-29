@@ -17,7 +17,7 @@ export function ProjectFour() {
     "https://assets.aceternity.com/placeholders-and-vanish-input.png",
     "https://assets.aceternity.com/shooting-stars-and-stars-background.png",
     "/projects/project4/Right.jpg",
-    "/projects/project4/BottomCenter.jpg",
+    "/projects/project4/BottomCenter.png",
     "/projects/project4/Center.jpg",
     "/projects/project4/Left.jpg",
     "https://assets.aceternity.com/cloudinary_bkp/Parallax_Scroll_pzlatw_anfkh7.png",
