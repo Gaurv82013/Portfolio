@@ -77,7 +77,7 @@ export const ContactSection = () => {
                         </a>
                     </span>
                     <span className="rounded-full border border-primary/40 p-2 hover:bg-primary/10 transition-colors">
-                        <a href="https://github.com/Gaurv82013">
+                        <a href="https://github.com/gauravkr-dev">
                             <Github className="h-6 w-6 text-muted-foreground hover:text-primary transition-colors" />
                         </a>
                     </span>
